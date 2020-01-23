@@ -1,4 +1,4 @@
-package recfun
+package recurssion
 
 object RecFun extends RecFunInterface {
 

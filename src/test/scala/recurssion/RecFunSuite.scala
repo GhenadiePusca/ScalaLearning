@@ -1,11 +1,9 @@
-package recfun
-
+package recurssion
 import org.junit._
 import org.junit.Assert.assertEquals
 
 class RecFunSuite {
   import RecFun._
-
   // ------ balance tests -----------------------------------------------------
 
   @Test def `balance: '(if (zero? x) max (/ 1 x))' is balanced`: Unit =
